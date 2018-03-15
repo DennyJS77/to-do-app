@@ -1,0 +1,12 @@
+.main{
+	padding: 40px;
+}
+
+.mdl-card__title{
+	background-color: #3333ff;
+	justify-content: center;
+}
+
+.mdl-card__title-text {
+	color: white
+}
